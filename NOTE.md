@@ -14,5 +14,6 @@
 
    module.exports = config;
 
-
-3. 
+3. Seperated common code to different webpack config.
+   - Merged with webpack-merge
+4. Added webpack-dev-server
