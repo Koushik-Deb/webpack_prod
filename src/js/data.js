@@ -1,4 +1,4 @@
-import data from "./todos.json";
+import data from "../todos.json";
 
 export function getAllTodos() {
   return data;
